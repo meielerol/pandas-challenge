@@ -61,7 +61,10 @@ Identify obvious trends in school performance.
 - Lists average math score for each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Scores by School Spending
-- Lists spending ranges per student vs. scores and passing rates
+- Lists school spending ranges per student vs. scores and passing rates
 
 ### Scores by School Size
-- Lists size ranges per student vs. scores and passing rates
+- Lists school size ranges per student vs. scores and passing rates
+
+### Scores by School Type
+- Lists school types per student vs. scores and passing rates
