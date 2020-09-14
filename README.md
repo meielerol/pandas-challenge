@@ -15,7 +15,7 @@ Identify obvious trends in school performance.
     - % Passing Reading
     - % Overall Passing (passing **both** math and reading)
     
-### School Summary [in works still: % calculation]
+### School Summary
 - School level summary of district's key metrics
     - School Name
     - School Type
@@ -28,7 +28,7 @@ Identify obvious trends in school performance.
     - % Passing Reading
     - % Overall Passing (passing **both** math and reading)
 
-### Top Performing Schools (By % Overall Passing) [in works: needs to be checked once above complete]
+### Top Performing Schools (By % Overall Passing)
 - Top 5 performing schools based on % Overall Passing
     - School Name
     - School Type
@@ -41,7 +41,7 @@ Identify obvious trends in school performance.
     - % Passing Reading
     - % Overall Passing
 
-### Bottom Performing Schools (By % Overall Passing) [in works: needs to be checked once above complete]
+### Bottom Performing Schools (By % Overall Passing)
 - Bottom 5 performing schools based on % Overall Passing
     - School Name
     - School Type
@@ -59,3 +59,4 @@ Identify obvious trends in school performance.
 
 ### Reading Scores by Grade
 - Lists average math score for each grade level (9th, 10th, 11th, 12th) at each school.
+
