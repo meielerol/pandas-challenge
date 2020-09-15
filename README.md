@@ -68,3 +68,10 @@ Identify obvious trends in school performance.
 
 ### Scores by School Type
 - Lists school types per student vs. scores and passing rates
+
+### Analysis
+- An analysis of the data is included as a word document
+    - Overview
+    - Trends
+    - No Trends
+    - Appendix
